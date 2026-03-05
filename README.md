@@ -23,11 +23,11 @@ By visualizing profit distribution, I identified that while the **Bikes** catego
 
 ### 2. Country Performance
 While the **United States** leads in total revenue, **Canada** maintains a significantly higher average profit margin, suggesting a more efficient operational model.
-![Country Performance](country_margins.png)
+![Country Performance](country_performance.png)
 
 ### 3. Revenue Trends (2011-2016)
 The line chart below validates the data cleaning process; it shows a clean monthly trend, proving that the previously broken date formats have been successfully standardized.
-![Monthly Revenue Trend](monthly_revenue_trend.png)
+![Monthly Revenue Trend](monthly_trends.png)
 
 ## 💡 Strategic Recommendations
 1. **Price Review:** Investigate the pricing strategy for the "Mountain-500" series to mitigate losses.
